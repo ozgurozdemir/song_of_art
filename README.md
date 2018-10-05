@@ -8,6 +8,7 @@ All you need is Python3. The whole code was written with core Python3 libraries.
 ## Deployment
 
 You can use terminal to run program. Put the image you want to convert, then enter your image name with *extension*. 
+
 **Note:** Images with high resolution is recommended, in spite of running time. 
 
 ## Methodology
